@@ -811,32 +811,27 @@ gantt
 
 ```mermaid
 mindmap
-
-    root((Game))
-
-        Gameplay
-            Movement
-            Combat
-            Inventory
-            AI
-
-        Systems
-            Input
-            Audio
-            Save
-            Networking
-
-        UI
-            HUD
-            Menus
-            Settings
-            Inventory
-
-        Content
-            Levels
-            Characters
-            Weapons
-            Enemies
+  root((Game))
+    Gameplay
+      Movement
+      Combat
+      Inventory
+      AI
+    Systems
+      Input
+      Audio
+      Save
+      Networking
+    UI
+      HUD
+      Menus
+      Settings
+      Inventory
+    Content
+      Levels
+      Characters
+      Weapons
+      Enemies
 ```
 
 ---
@@ -845,38 +840,32 @@ mindmap
 
 ```mermaid
 mindmap
-
-    root((Software Engineering))
-
-        Architecture
-            Layers
-            Modules
-            Dependencies
-            Interfaces
-
-        Programming
-            Algorithms
-            Data Structures
-            OOP
-            Functional
-
-        Infrastructure
-            Networking
-            Databases
-            Cloud
-            CI/CD
-
-        Testing
-            Unit
-            Integration
-            System
-            Performance
-
-        Operations
-            Logging
-            Monitoring
-            Deployment
-            Backups
+  root((Software Engineering))
+    Architecture
+      Layers
+      Modules
+      Dependencies
+      Interfaces
+    Programming
+      Algorithms
+      Data Structures
+      OOP
+      Functional
+    Infrastructure
+      Networking
+      Databases
+      Cloud
+      CI/CD
+    Testing
+      Unit
+      Integration
+      System
+      Performance
+    Operations
+      Logging
+      Monitoring
+      Deployment
+      Backups
 ```
 
 ---
